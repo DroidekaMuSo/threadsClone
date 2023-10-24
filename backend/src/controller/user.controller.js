@@ -14,6 +14,7 @@ const signupUser = async (req, res) => {
       "🚀 ~ file: user.controller.js:5 ~ signupUser ~ error:",
       error.message
     );
+    
   }
 };
 
